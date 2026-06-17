@@ -5,7 +5,7 @@ title: Ukraine UNGA Resolutions and Amendments
 
 # Ukraine UNGA Resolutions and Amendments (2014–2026)
 
-Summary of the 15 UNGA resolutions and amendments on Ukraine analysed in the [ukraine-vote-analysis](https://github.com/Robs-Git-Hub/ukraine-vote-analysis) project. All were adopted under the eleventh emergency special session (ES-11) except A/RES/68/262 (68th session) and A/RES/78/316 (78th session). The three amendments (L.8, L.9, L.12) were all defeated.
+Summary of the 15 UNGA resolutions and amendments on Ukraine used in this analysis. All were adopted under the eleventh emergency special session (ES-11) except A/RES/68/262 (68th session) and A/RES/78/316 (78th session). The three amendments (L.8, L.9, L.12) were all defeated.
 
 ## Vote Summary
 
@@ -111,5 +111,3 @@ The resolutions are classified into four categories for the purposes of voting p
 - **counter-narrative** — Amendments proposed by Russia/Belarus offering alternative framings (all defeated)
 
 ---
-
-*Part of the [ukraine-vote-analysis](https://github.com/Robs-Git-Hub/ukraine-vote-analysis) project.*
