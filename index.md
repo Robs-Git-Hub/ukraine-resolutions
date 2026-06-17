@@ -56,7 +56,7 @@ Demands immediate cessation of hostilities, protection of civilians and civilian
 
 ### <a id="res-4"></a>4. A/RES/ES-11/3 — Suspension from Human Rights Council (2022) <a href="pdfs/A_RES_ES-11_3-EN.pdf" target="_blank">[PDF]</a>
 
-Suspends Russia's membership rights in the Human Rights Council under paragraph 8 of resolution 60/251, citing gross and systematic violations of human rights during the aggression against Ukraine. The shortest resolution in the dataset (3 operative paragraphs).
+Suspends Russia's membership rights in the Human Rights Council under paragraph 8 of resolution 60/251, citing gross and systematic violations of human rights during the aggression against Ukraine. A notably concise resolution (3 operative paragraphs).
 
 ### <a id="res-5"></a>5. A/RES/ES-11/4 — Territorial integrity: defending Charter principles (2022) <a href="pdfs/A_RES_ES-11_4-EN.pdf" target="_blank">[PDF]</a>
 
