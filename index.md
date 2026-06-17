@@ -110,7 +110,7 @@ Focuses entirely on forcibly transferred and deported Ukrainian children. Demand
 
 ### 15. A/RES/ES-11/10 — Support for lasting peace (2026) <a href="pdfs/A_RES_ES-11_10-EN.pdf" target="_blank">[PDF]</a>
 
-Four-year anniversary resolution. Calls for an immediate, full and unconditional ceasefire — the first resolution in the dataset to use that term. Welcomes US, European and other peace efforts. Reiterates calls for prisoner exchange and return of deported civilians as confidence-building measures. The most concise of the annual anniversary resolutions (3 substantive operative paragraphs).
+Four-year anniversary resolution. Calls for an immediate, full and unconditional ceasefire. Welcomes US, European and other peace efforts. Reiterates calls for prisoner exchange and return of deported civilians as confidence-building measures. The most concise of the annual anniversary resolutions (3 substantive operative paragraphs).
 
 ---
 
