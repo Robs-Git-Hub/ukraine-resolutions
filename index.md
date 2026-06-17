@@ -31,7 +31,7 @@ Summary of the 15 UNGA resolutions and amendments on Ukraine used in this analys
 | 5 | [A/RES/ES-11/4](pdfs/A_RES_ES-11_4-EN.pdf) | 2022-10-12 | 143-5-35 | Territorial integrity: defending Charter principles | affirm-sovereignty |
 | 6 | [A/RES/ES-11/5](pdfs/A_RES_ES-11_5-EN.pdf) | 2022-11-14 | 94-14-73 | Remedy and reparation for aggression | consequences |
 | 7 | [A/ES-11/L.8](pdfs/A_ES-11_L.8-EN.pdf) | 2023-02-23 | 11-94-56 | Belarus amendment: replace "aggression" with "hostilities" | counter-narrative (defeated) |
-| 8 | [A/ES-11/L.9](pdfs/A_ES-11_L.9-EN.pdf) | 2023-02-23 | 15-91-52 | Belarus amendment: root causes, weapons supply, Minsk | counter-narrative (defeated) |
+| 8 | [A/ES-11/L.9](pdfs/A_ES-11_L.9-EN.pdf) | 2023-02-23 | 15-91-52 | Belarus amendment: root causes, weapons supply, peace negotiations | counter-narrative (defeated) |
 | 9 | [A/RES/ES-11/6](pdfs/A_RES_ES-11_6-EN.pdf) | 2023-02-23 | 141-7-32 | Principles for a comprehensive, just and lasting peace | peace-framework |
 | 10 | [A/RES/78/316](pdfs/A_RES_78_316-EN.pdf) | 2024-07-11 | 99-9-60 | Nuclear safety: Zaporizhzhia | consequences |
 | 11 | [A/ES-11/L.12](pdfs/A_ES-11_L.12-EN.pdf) | 2025-02-24 | 31-71-59 | Russia amendment: insert "root causes" | counter-narrative (defeated) |
@@ -48,7 +48,7 @@ Affirms Ukraine's sovereignty and territorial integrity within its international
 
 ### 2. A/RES/ES-11/1 — Aggression against Ukraine (2022) <a href="pdfs/A_RES_ES-11_1-EN.pdf" target="_blank">[PDF]</a>
 
-Deplores Russia's aggression in the strongest terms and demands immediate, complete and unconditional withdrawal of all military forces from Ukraine. Condemns the recognition of Donetsk and Luhansk separatist entities. Demands safe passage for civilians, humanitarian access, and compliance with international humanitarian law. Deplores Belarus's involvement.
+Deplores Russia's aggression in the strongest terms and demands immediate, complete and unconditional withdrawal of all military forces from Ukraine. Deplores the decision related to the status of certain areas of the Donetsk and Luhansk regions as a violation of territorial integrity. Demands safe passage for civilians, humanitarian access, and compliance with international humanitarian law. Deplores Belarus's involvement.
 
 ### 3. A/RES/ES-11/2 — Humanitarian consequences (2022) <a href="pdfs/A_RES_ES-11_2-EN.pdf" target="_blank">[PDF]</a>
 
@@ -110,7 +110,7 @@ Focuses entirely on forcibly transferred and deported Ukrainian children. Demand
 
 ### 15. A/RES/ES-11/10 — Support for lasting peace (2026) <a href="pdfs/A_RES_ES-11_10-EN.pdf" target="_blank">[PDF]</a>
 
-Four-year anniversary resolution. Calls for an immediate, full and unconditional ceasefire. Welcomes US, European and other peace efforts. Reiterates calls for prisoner exchange and return of deported civilians as confidence-building measures. The most concise annual resolution to date (4 operative paragraphs).
+Four-year anniversary resolution. Calls for an immediate, full and unconditional ceasefire — the first resolution in the dataset to use that term. Welcomes US, European and other peace efforts. Reiterates calls for prisoner exchange and return of deported civilians as confidence-building measures. The most concise of the annual anniversary resolutions (3 substantive operative paragraphs).
 
 ---
 
