@@ -7,6 +7,11 @@ title: Ukraine UNGA Resolutions and Amendments
 
 Summary of the 15 UNGA resolutions and amendments on Ukraine used in this analysis. All were adopted under the eleventh emergency special session (ES-11) except A/RES/68/262 (68th session) and A/RES/78/316 (78th session). The three amendments (L.8, L.9, L.12) were all defeated.
 
+<p>
+  <a href="downloads/ukraine-resolutions-pdf.zip" style="display:inline-block; padding:10px 20px; background:#159957; color:white; text-decoration:none; border-radius:4px; font-weight:bold; margin-right:10px;">Download all resolutions as PDF</a>
+  <a href="downloads/ukraine-resolutions-docx.zip" style="display:inline-block; padding:10px 20px; background:#155799; color:white; text-decoration:none; border-radius:4px; font-weight:bold;">Download all resolutions as DOCX</a>
+</p>
+
 ## Vote Summary
 
 | # | Vote ID | Date | Tally (Y-N-A) | Title | Category |
