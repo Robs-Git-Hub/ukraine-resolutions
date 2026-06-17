@@ -4,7 +4,7 @@ title: Ukraine UNGA Resolutions and Amendments
 ---
 
 <style>
-h1, h2, h3 { color: #333; }
+h1, h2, h3 { color: #333 !important; }
 table { font-size: 0.82em; }
 td, th { white-space: nowrap; }
 td:nth-child(5) { white-space: normal; }
